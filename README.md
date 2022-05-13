@@ -16,7 +16,6 @@ If you use this code, please cite our paper:
   url       = {https://arxiv.org/abs/2112.07534v2},
   eprinttype = {arXiv},
   eprint    = {2112.07534},
-  timestamp = {Mon, 03 Jan 2022 15:45:35 +0100},
   biburl    = {https://dblp.org/rec/journals/corr/abs-2112-07534.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
